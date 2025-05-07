@@ -1,5 +1,5 @@
 # Cultural Classification Project
-
+⚠️ Code under revision ⚠️
 ## Project Description
 
 The goal of the project is to classify entities into three cultural categories:
