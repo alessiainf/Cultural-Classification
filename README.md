@@ -33,9 +33,9 @@ They include Wikidata entities annotated as culturally agnostic, culturally repr
 
 ## Authors
 
-- A. Infantino 1922069 - https://github.com/alessiainf
-- A. Di Chiara 1938462 - https://github.com/AlessandroDiChiara
-- F. Fragale 2169937 - https://github.com/Bannfrost99
+- [A. Infantino 1922069](https://github.com/alessiainf)
+- [A. Di Chiara 1938462](https://github.com/AlessandroDiChiara)
+- [F. Fragale 2169937](https://github.com/Bannfrost99)
 
 ---
 
